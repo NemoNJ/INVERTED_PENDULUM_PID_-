@@ -1,5 +1,3 @@
-#include <Arduino.h>
-
 #define MOTOR_IN1       19
 #define MOTOR_IN2       18
 #define ENCODER_A       16
